@@ -1,8 +1,9 @@
 body {
     font-family: arial;
     font-size: 16px;
-    background-color: black;
-    color: lightgrey;
+    background-color: #121212ee;
+    color: #FFFFFF;
+    opacity: 0.8;
     text-align: center;
 }
 
@@ -13,4 +14,8 @@ h1 {
 
 .left {
     text-align: left;
+}
+
+a {
+    color:antiquewhite
 }
